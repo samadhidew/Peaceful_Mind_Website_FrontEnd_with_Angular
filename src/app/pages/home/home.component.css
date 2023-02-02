@@ -1,0 +1,58 @@
+body{
+    
+  margin: 0%;
+}
+
+.slide-con{
+  height: 100px;
+  filter: grayscale(50%);
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  margin: auto;
+}
+
+.imgs{
+ margin-top: 675px;
+ 
+}
+
+.img>img{
+  float:right;
+  height: 550px ;
+  width: 700px;
+}
+.dis{
+  margin-top: -20px;
+  margin-bottom: -20px;
+  color: #ff8c00;
+  font-size: 25px;
+  
+}
+
+.dis2{
+  float: left;
+  color: #000000;
+  margin-right: 675px;
+  margin-left: 40px;
+ 
+  margin-top:-470px;
+  font-size: 40px;
+}
+.box{
+  float: center;
+  margin-left: -10px;
+  margin-bottom: -10px;
+  margin-top: 40px;
+ background-color: antiquewhite;
+ 
+ 
+}
+
+.box p{
+  margin: 5%;
+  text-align: left;
+  margin-bottom: 120px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
